@@ -3,6 +3,7 @@ title:        trackby.me
 tagline:      TV Show & Movie Tracker for you!
 baseurl:      ""
 paginate:     1
+future: true
 
 # About/contact
 author1:
