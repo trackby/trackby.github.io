@@ -1,13 +1,21 @@
 # Setup
-title:        Track by Me
+title:        trackby.me
 tagline:      TV Show & Movie Tracker for you!
 baseurl:      ""
 paginate:     1
 
 # About/contact
-author:
-  name:       Onur & Gokcan & Fatih
-  url:        http://trackby.github.io/
+author1:
+  name:       Onur
+  url:        http://github.com/sonmezonur
+
+author2:
+  name:    Gokcan
+  url:     http://github.com/gokcan
+
+author3:
+  name:    Fatih
+  url:   http://github.com/neonray
 
 # Gems
 gems:
