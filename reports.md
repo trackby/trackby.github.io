@@ -4,7 +4,6 @@ layout: default
 permalink: reports.html
 ---
 
-
-- Proposal Report (pdf icon)
+* [Proposal Report]({{ site.url }}/reports/proposal-report.pdf) [![Proposal](/icons/pdf-icon.png)]({{ site.url }}/reports/proposal-report.pdf)
 
 [Back]({{ site.url }}/)
