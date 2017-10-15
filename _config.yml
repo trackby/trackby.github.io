@@ -18,6 +18,9 @@ author3:
   name:    Fatih
   url:   http://github.com/neonray
 
+author4:
+  name:   Orcun
+  url: https://github.com/morcunyalcin
 # Gems
 gems:
   - jekyll-paginate
