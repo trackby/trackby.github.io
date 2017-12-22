@@ -22,7 +22,7 @@ author4:
   name:   Orcun
   url: https://github.com/morcunyalcin
 # Gems
-gems:
+plugins:
   - jekyll-paginate
 
 #Others
